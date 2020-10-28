@@ -33,7 +33,7 @@ function setup() {
 
 function draw() {
   // moving ground
-    background.velocityX = -3 
+    background.velocityX = -5;
   
   
   
